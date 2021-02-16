@@ -78,8 +78,8 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-                                <h1 class="carousel-title">Personal Page Luis F. Jusino Alamo</h1>
-                                <p class="color-white">Projects Page of Luis F. Jusino Alamo<br/> </p>
+                                <h1 class="carousel-title">Personal Page</h1>
+                                <p class="color-white">Projects, works, about me, etc.<br/> </p>
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Details</a>
                         </div>
