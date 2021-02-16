@@ -33,7 +33,7 @@
 
                           <div class="logo">
                             <a class="logo-wrap" href="#body">
-                                <img class="logo-img logo-img-main" src="img/LFJA(3)(1).png" alt="LFJA3" style:"width:50px; height:50px;">
+                                <img class="logo-img logo-img-main" src="img/logo1.png" alt="LFJA3" style:"width:50px; height:50px;">
                                 <img class="logo-img logo-img-active" src="img/logo-dark.png" alt="FlameOnePage Dark Logo">
                             </a>
                         </div>
