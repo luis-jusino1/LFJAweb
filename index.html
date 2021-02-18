@@ -117,14 +117,14 @@
                     </div>
                     <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4">
                         <div class="margin-b-60">
-                          <h2>Easy Integration</h2>
+                          <h2>Working Experience</h2>
                           <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna ut consequat siad esqudiat dolor</p>  
                         </div>
 						 <img class="full-width img-responsive wow fadeInUp" src="img/500x500/02.jpg" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".3s">
                     </div>
                     <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4">
                         <div class="margin-t-60 margin-b-60">
-                            <h2>Superior Support</h2>
+                            <h2>Other</h2>
                             <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna ut consequat siad esqudiat dolor</p>
                         </div>
                         <img class="full-width img-responsive wow fadeInUp" src="img/500x500/03.jpg" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".4s">
